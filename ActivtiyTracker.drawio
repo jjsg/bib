@@ -1,478 +1,481 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T10:39:26.908Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="wK8r_qEaeFfqRkaxcXfT" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="o7TmA1QrKZWusFfurLSE">
-    <mxGraphModel dx="1266" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-1" value="Categories&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A. Spritual&lt;/div&gt;&lt;div&gt;B. Health&lt;/div&gt;&lt;div&gt;C. Business&lt;/div&gt;&lt;div&gt;D. Job&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Business&lt;/div&gt;&lt;div&gt;1. Customers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. Program customer&lt;/div&gt;&lt;div&gt;i. Daily follow up&amp;nbsp;&lt;/div&gt;&lt;div&gt;ii. Weekly calls&lt;/div&gt;&lt;div&gt;iii. Weekly CMOS&lt;/div&gt;&lt;div&gt;iv. DTM for volunteering&lt;/div&gt;&lt;div&gt;v. Meet my coach flyer&lt;/div&gt;&lt;div&gt;vi. Share MC group in their friends and family&lt;/div&gt;&lt;div&gt;vii. Interview&amp;nbsp;&lt;/div&gt;&lt;div&gt;viii. Significant weight loss CMOS&lt;/div&gt;&lt;div&gt;ix. Non weight loss CMOS&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x. cross-selling / up-selling&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;xi. renewal program and nutrition&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;xii. Anyone in close family&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;xiii. Promote open house&lt;br&gt;xiv. Promote Spotlight&lt;br&gt;xv. Nominate for awards&lt;/div&gt;&lt;div&gt;xvi. promote webinars&lt;br&gt;&lt;/div&gt;&lt;div&gt;xvii. send gift every month&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. old customers&lt;br&gt;i. Able to maintain / restart&lt;br&gt;ii. Talk about challenges&lt;br&gt;iii. No rebound CMOS&lt;br&gt;iv. Ask for volunteering&lt;br&gt;v. Invite in MC and ask them to share flyer&lt;br&gt;vi. Promote open house&lt;br&gt;vii. Promote Spotlight&lt;br&gt;viii Nominate for awards&lt;br&gt;ix. Ask for references&lt;/div&gt;&lt;div&gt;x. promote webinars&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. yellow leads&lt;br&gt;i. Invite to MC&lt;br&gt;ii. Talk about challenges&lt;br&gt;iii. Weekly Inspiration msg&lt;br&gt;iv. promote open house&lt;/div&gt;&lt;div&gt;v. promote webinars&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. challenge customers&lt;/div&gt;&lt;div&gt;i. Follow up if they are able to continue&lt;/div&gt;&lt;div&gt;ii. Invite them to MC&lt;/div&gt;&lt;div&gt;iii. send them gift&amp;nbsp;&lt;/div&gt;&lt;div&gt;iv. promote open house&lt;/div&gt;&lt;div&gt;v. If anyone part of more than 3-4 challenges, try dtm&lt;/div&gt;&lt;div&gt;vi. promote subsequent challenge&lt;/div&gt;&lt;div&gt;vii. promote webinar&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. lyl customers&lt;br&gt;i. Follow up if they are following&lt;/div&gt;&lt;div&gt;ii. how they are able to adapt changes&lt;/div&gt;&lt;div&gt;iii. any reference&lt;/div&gt;&lt;div&gt;iv. invite to MC&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;f. MC&amp;nbsp;&lt;/div&gt;&lt;div&gt;i. contents&lt;/div&gt;&lt;div&gt;ii. engaging polls&lt;/div&gt;&lt;div&gt;iii. conversation&lt;/div&gt;&lt;div&gt;iv. do webinars related to kids&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Team&lt;/div&gt;&lt;div&gt;a. existing members&lt;/div&gt;&lt;div&gt;i. connect every day&lt;/div&gt;&lt;div&gt;ii. create activity tracker for them same as mine&lt;/div&gt;&lt;div&gt;iii. talk about pase&amp;nbsp;&lt;/div&gt;&lt;div&gt;iv. talk about phone team&lt;/div&gt;&lt;div&gt;v. talk about open house&lt;/div&gt;&lt;div&gt;vi. leverage webinars&lt;/div&gt;&lt;div&gt;vii. mc progress&lt;/div&gt;&lt;div&gt;viii. any other help&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. old members&lt;/div&gt;&lt;div&gt;i. connect once a month&lt;/div&gt;&lt;div&gt;ii. anything we can do to help&lt;/div&gt;&lt;div&gt;iii. promote spotlight&lt;/div&gt;&lt;div&gt;iv. promote lyl&lt;/div&gt;&lt;div&gt;v. encourage to participate in challenges&lt;/div&gt;&lt;div&gt;vi. MC be active&lt;/div&gt;&lt;div&gt;vii. meet my coach flyer&lt;/div&gt;&lt;div&gt;viii. promote webinars&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. volunteers&lt;/div&gt;&lt;div&gt;i. Check progress&lt;/div&gt;&lt;div&gt;ii. promote podcast, volunteer meet&lt;/div&gt;&lt;div&gt;iii. MC&lt;/div&gt;&lt;div&gt;iv. help create contents&lt;/div&gt;&lt;div&gt;v. share stories to upload&lt;/div&gt;&lt;div&gt;vi. reading book&lt;/div&gt;&lt;div&gt;vii. increase SM network&lt;/div&gt;&lt;div&gt;viii. micro videos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. More volunteers&lt;/div&gt;&lt;div&gt;i. conversation&lt;/div&gt;&lt;div&gt;ii. Doctors&lt;/div&gt;&lt;div&gt;iii. Students course&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Create System/ Initiatives&lt;/div&gt;&lt;div&gt;i. Habit tracker for customers&lt;/div&gt;&lt;div&gt;ii. inflammation control program&lt;/div&gt;&lt;div&gt;iii. HWL guided program&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-1" value="Categories&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A. Spritual&lt;/div&gt;&lt;div&gt;B. Health&lt;/div&gt;&lt;div&gt;C. Business&lt;/div&gt;&lt;div&gt;D. Job&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Business&lt;/div&gt;&lt;div&gt;1. Customers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;a. Program customer&lt;/div&gt;&lt;div&gt;i. Daily follow up&amp;nbsp;&lt;/div&gt;&lt;div&gt;ii. Weekly calls&lt;/div&gt;&lt;div&gt;iii. Weekly CMOS&lt;/div&gt;&lt;div&gt;iv. DTM for volunteering&lt;/div&gt;&lt;div&gt;v. Meet my coach flyer&lt;/div&gt;&lt;div&gt;vi. Share MC group in their friends and family&lt;/div&gt;&lt;div&gt;vii. Interview&amp;nbsp;&lt;/div&gt;&lt;div&gt;viii. Significant weight loss CMOS&lt;/div&gt;&lt;div&gt;ix. Non weight loss CMOS&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x. cross-selling / up-selling&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;xi. renewal program and nutrition&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;xii. Anyone in close family&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;xiii. Promote open house&lt;br&gt;xiv. Promote Spotlight&lt;br&gt;xv. Nominate for awards&lt;/div&gt;&lt;div&gt;xvi. promote webinars&lt;br&gt;&lt;/div&gt;&lt;div&gt;xvii. send gift every month&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. old customers&lt;br&gt;i. Able to maintain / restart&lt;br&gt;ii. Talk about challenges&lt;br&gt;iii. No rebound CMOS&lt;br&gt;iv. Ask for volunteering&lt;br&gt;v. Invite in MC and ask them to share flyer&lt;br&gt;vi. Promote open house&lt;br&gt;vii. Promote Spotlight&lt;br&gt;viii Nominate for awards&lt;br&gt;ix. Ask for references&lt;/div&gt;&lt;div&gt;x. promote webinars&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. yellow leads&lt;br&gt;i. Invite to MC&lt;br&gt;ii. Talk about challenges&lt;br&gt;iii. Weekly Inspiration msg&lt;br&gt;iv. promote open house&lt;/div&gt;&lt;div&gt;v. promote webinars&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. challenge customers&lt;/div&gt;&lt;div&gt;i. Follow up if they are able to continue&lt;/div&gt;&lt;div&gt;ii. Invite them to MC&lt;/div&gt;&lt;div&gt;iii. send them gift&amp;nbsp;&lt;/div&gt;&lt;div&gt;iv. promote open house&lt;/div&gt;&lt;div&gt;v. If anyone part of more than 3-4 challenges, try dtm&lt;/div&gt;&lt;div&gt;vi. promote subsequent challenge&lt;/div&gt;&lt;div&gt;vii. promote webinar&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;e. lyl customers&lt;br&gt;i. Follow up if they are following&lt;/div&gt;&lt;div&gt;ii. how they are able to adapt changes&lt;/div&gt;&lt;div&gt;iii. any reference&lt;/div&gt;&lt;div&gt;iv. invite to MC&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;f. MC&amp;nbsp;&lt;/div&gt;&lt;div&gt;i. contents&lt;/div&gt;&lt;div&gt;ii. engaging polls&lt;/div&gt;&lt;div&gt;iii. conversation&lt;/div&gt;&lt;div&gt;iv. do webinars related to kids&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Team&lt;/div&gt;&lt;div&gt;a. existing members&lt;/div&gt;&lt;div&gt;i. connect every day&lt;/div&gt;&lt;div&gt;ii. create activity tracker for them same as mine&lt;/div&gt;&lt;div&gt;iii. talk about pase&amp;nbsp;&lt;/div&gt;&lt;div&gt;iv. talk about phone team&lt;/div&gt;&lt;div&gt;v. talk about open house&lt;/div&gt;&lt;div&gt;vi. leverage webinars&lt;/div&gt;&lt;div&gt;vii. mc progress&lt;/div&gt;&lt;div&gt;viii. any other help&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b. old members&lt;/div&gt;&lt;div&gt;i. connect once a month&lt;/div&gt;&lt;div&gt;ii. anything we can do to help&lt;/div&gt;&lt;div&gt;iii. promote spotlight&lt;/div&gt;&lt;div&gt;iv. promote lyl&lt;/div&gt;&lt;div&gt;v. encourage to participate in challenges&lt;/div&gt;&lt;div&gt;vi. MC be active&lt;/div&gt;&lt;div&gt;vii. meet my coach flyer&lt;/div&gt;&lt;div&gt;viii. promote webinars&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;c. volunteers&lt;/div&gt;&lt;div&gt;i. Check progress&lt;/div&gt;&lt;div&gt;ii. promote podcast, volunteer meet&lt;/div&gt;&lt;div&gt;iii. MC&lt;/div&gt;&lt;div&gt;iv. help create contents&lt;/div&gt;&lt;div&gt;v. share stories to upload&lt;/div&gt;&lt;div&gt;vi. reading book&lt;/div&gt;&lt;div&gt;vii. increase SM network&lt;/div&gt;&lt;div&gt;viii. micro videos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;d. More volunteers&lt;/div&gt;&lt;div&gt;i. conversation&lt;/div&gt;&lt;div&gt;ii. Doctors&lt;/div&gt;&lt;div&gt;iii. Students course&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Create System/ Initiatives&lt;/div&gt;&lt;div&gt;i. Habit tracker for customers&lt;/div&gt;&lt;div&gt;ii. inflammation control program&lt;/div&gt;&lt;div&gt;iii. HWL guided program&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="52" y="80" width="218" height="2150" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-2" value="Master List of Activity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-2" value="Master List of Activity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="28" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-4" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-4" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="350" y="90" width="510" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-4">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-4" vertex="1">
           <mxGeometry width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-6" value="Sr No" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-5">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-6" value="Sr No" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" parent="f_WUbL0dvEo4hb0WviOG-5" vertex="1">
           <mxGeometry width="74" height="40" as="geometry">
             <mxRectangle width="74" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-7" value="Topic" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-5">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-7" value="Topic" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-5" vertex="1">
           <mxGeometry x="74" width="266" height="40" as="geometry">
             <mxRectangle width="266" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-21" value="Time" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-5">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-21" value="Time" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-5" vertex="1">
           <mxGeometry x="340" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-17" value="Frequency" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-5">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-17" value="Frequency" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-5" vertex="1">
           <mxGeometry x="410" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-4">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-4" vertex="1">
           <mxGeometry y="40" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-9" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-8">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-9" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-8" vertex="1">
           <mxGeometry width="74" height="40" as="geometry">
             <mxRectangle width="74" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-10" value="Write Sodashgranth Names" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-8">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-10" value="Write Sodashgranth Names" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-8" vertex="1">
           <mxGeometry x="74" width="266" height="40" as="geometry">
             <mxRectangle width="266" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-22" value="5min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-8">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-22" value="5min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-8" vertex="1">
           <mxGeometry x="340" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-18" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-8">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-18" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-8" vertex="1">
           <mxGeometry x="410" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-4">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-4" vertex="1">
           <mxGeometry y="80" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-12" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-11">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-12" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-11" vertex="1">
           <mxGeometry width="74" height="40" as="geometry">
             <mxRectangle width="74" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-13" value="Read 1 sodashgranth / day" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-11">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-13" value="Read 1 sodashgranth / day" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-11" vertex="1">
           <mxGeometry x="74" width="266" height="40" as="geometry">
             <mxRectangle width="266" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-23" value="15min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-11">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-23" value="15min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-11" vertex="1">
           <mxGeometry x="340" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-19" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-11">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-19" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-11" vertex="1">
           <mxGeometry x="410" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-25" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-4">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-25" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-4" vertex="1">
           <mxGeometry y="120" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-26" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-25">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-26" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-25" vertex="1">
           <mxGeometry width="74" height="40" as="geometry">
             <mxRectangle width="74" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-27" value="Read Dadaji na 78 varta" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-25">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-27" value="Read Dadaji na 78 varta" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-25" vertex="1">
           <mxGeometry x="74" width="266" height="40" as="geometry">
             <mxRectangle width="266" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-28" value="30min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-25">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-28" value="30min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-25" vertex="1">
           <mxGeometry x="340" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-29" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-25">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-29" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-25" vertex="1">
           <mxGeometry x="410" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-4">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-4" vertex="1">
           <mxGeometry y="160" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-15" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-14">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-15" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-14" vertex="1">
           <mxGeometry width="74" height="40" as="geometry">
             <mxRectangle width="74" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-16" value="Read Gusainji na 252 varta" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-14">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-16" value="Read Gusainji na 252 varta" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-14" vertex="1">
           <mxGeometry x="74" width="266" height="40" as="geometry">
             <mxRectangle width="266" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-24" value="30min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-14">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-24" value="30min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-14" vertex="1">
           <mxGeometry x="340" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-20" value="After 3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-14">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-20" value="After 3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-14" vertex="1">
           <mxGeometry x="410" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-35" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-4">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-35" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-4" vertex="1">
           <mxGeometry y="200" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-36" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-35">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-36" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-35" vertex="1">
           <mxGeometry width="74" height="40" as="geometry">
             <mxRectangle width="74" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-37" value="Read Maharaprabhuji 84 varta" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-35">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-37" value="Read Maharaprabhuji 84 varta" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-35" vertex="1">
           <mxGeometry x="74" width="266" height="40" as="geometry">
             <mxRectangle width="266" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-38" value="30min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-35">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-38" value="30min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-35" vertex="1">
           <mxGeometry x="340" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-39" value="After 4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-35">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-39" value="After 4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-35" vertex="1">
           <mxGeometry x="410" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-40" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-4">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-40" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-4" vertex="1">
           <mxGeometry y="240" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-41" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-40">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-41" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-40" vertex="1">
           <mxGeometry width="74" height="40" as="geometry">
             <mxRectangle width="74" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-42" value="Read Purshottam naam sahastra" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-40">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-42" value="Read Purshottam naam sahastra" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-40" vertex="1">
           <mxGeometry x="74" width="266" height="40" as="geometry">
             <mxRectangle width="266" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-43" value="60min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-40">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-43" value="60min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-40" vertex="1">
           <mxGeometry x="340" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-40">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-40" vertex="1">
           <mxGeometry x="410" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-45" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-4">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-45" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-4" vertex="1">
           <mxGeometry y="280" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-46" value="7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-45">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-46" value="7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-45" vertex="1">
           <mxGeometry width="74" height="40" as="geometry">
             <mxRectangle width="74" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-47" value="Read Trividhnamavali" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-45">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-47" value="Read Trividhnamavali" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-45" vertex="1">
           <mxGeometry x="74" width="266" height="40" as="geometry">
             <mxRectangle width="266" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-48" value="60min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-45">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-48" value="60min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-45" vertex="1">
           <mxGeometry x="340" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-45">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-45" vertex="1">
           <mxGeometry x="410" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-50" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-4">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-50" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-4" vertex="1">
           <mxGeometry y="320" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-51" value="8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-50">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-51" value="8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-50" vertex="1">
           <mxGeometry width="74" height="40" as="geometry">
             <mxRectangle width="74" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-52" value="Guruvani and make notes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-50">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-52" value="Guruvani and make notes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-50" vertex="1">
           <mxGeometry x="74" width="266" height="40" as="geometry">
             <mxRectangle width="266" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-53" value="60min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-50">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-53" value="60min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-50" vertex="1">
           <mxGeometry x="340" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-50">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-50" vertex="1">
           <mxGeometry x="410" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-55" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-4">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-55" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-4" vertex="1">
           <mxGeometry y="360" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-56" value="9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-55">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-56" value="9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-55" vertex="1">
           <mxGeometry width="74" height="40" as="geometry">
             <mxRectangle width="74" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-57" value="Read pushtak published by ghar" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-55">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-57" value="Read pushtak published by ghar" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-55" vertex="1">
           <mxGeometry x="74" width="266" height="40" as="geometry">
             <mxRectangle width="266" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-58" value="30min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-55">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-58" value="30min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-55" vertex="1">
           <mxGeometry x="340" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-59" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-55">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-59" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-55" vertex="1">
           <mxGeometry x="410" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-60" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-4">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-60" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-4" vertex="1">
           <mxGeometry y="400" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-61" value="10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-60">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-61" value="10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-60" vertex="1">
           <mxGeometry width="74" height="40" as="geometry">
             <mxRectangle width="74" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-62" value="1 Vallabhakhyan" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-60">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-62" value="1 Vallabhakhyan" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-60" vertex="1">
           <mxGeometry x="74" width="266" height="40" as="geometry">
             <mxRectangle width="266" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-63" value="5min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-60">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-63" value="5min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-60" vertex="1">
           <mxGeometry x="340" width="70" height="40" as="geometry">
             <mxRectangle width="70" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-64" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-60">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-64" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-60" vertex="1">
           <mxGeometry x="410" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-65" value="Health" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-65" value="Health" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="900" y="90" width="510" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-66" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-65">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-66" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-65" vertex="1">
           <mxGeometry y="30" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-67" value="Sr No" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-66">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-67" value="Sr No" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-66" vertex="1">
           <mxGeometry width="50" height="40" as="geometry">
             <mxRectangle width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-68" value="Topic" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-66">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-68" value="Topic" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-66" vertex="1">
           <mxGeometry x="50" width="160" height="40" as="geometry">
             <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-69" value="Time" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-66">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-69" value="Time" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-66" vertex="1">
           <mxGeometry x="210" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-70" value="Frequency" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-66">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-70" value="Frequency" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-66" vertex="1">
           <mxGeometry x="310" width="200" height="40" as="geometry">
             <mxRectangle width="200" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-71" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-65">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-71" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-65" vertex="1">
           <mxGeometry y="70" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-72" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-71">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-72" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-71" vertex="1">
           <mxGeometry width="50" height="40" as="geometry">
             <mxRectangle width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-73" value="Exercise" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-71">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-73" value="Exercise" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-71" vertex="1">
           <mxGeometry x="50" width="160" height="40" as="geometry">
             <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-74" value="30min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-71">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-74" value="30min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-71" vertex="1">
           <mxGeometry x="210" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-75" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-71">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-75" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-71" vertex="1">
           <mxGeometry x="310" width="200" height="40" as="geometry">
             <mxRectangle width="200" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-76" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-65">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-76" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-65" vertex="1">
           <mxGeometry y="110" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-77" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-76">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-77" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-76" vertex="1">
           <mxGeometry width="50" height="40" as="geometry">
             <mxRectangle width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-78" value="Walk" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-76">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-78" value="Walk" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-76" vertex="1">
           <mxGeometry x="50" width="160" height="40" as="geometry">
             <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-79" value="1hrs" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-76">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-79" value="1hrs" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-76" vertex="1">
           <mxGeometry x="210" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-80" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-76">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-80" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-76" vertex="1">
           <mxGeometry x="310" width="200" height="40" as="geometry">
             <mxRectangle width="200" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-81" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-65">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-81" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-65" vertex="1">
           <mxGeometry y="150" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-82" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-81">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-82" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-81" vertex="1">
           <mxGeometry width="50" height="40" as="geometry">
             <mxRectangle width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-83" value="Cold Bath" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-81">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-83" value="Cold Bath" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-81" vertex="1">
           <mxGeometry x="50" width="160" height="40" as="geometry">
             <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-84" value="15min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-81">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-84" value="15min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-81" vertex="1">
           <mxGeometry x="210" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-85" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-81">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-85" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-81" vertex="1">
           <mxGeometry x="310" width="200" height="40" as="geometry">
             <mxRectangle width="200" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-86" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-65">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-86" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-65" vertex="1">
           <mxGeometry y="190" width="510" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-87" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-86">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-87" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-86" vertex="1">
           <mxGeometry width="50" height="30" as="geometry">
             <mxRectangle width="50" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-88" value="Diet" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-86">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-88" value="Diet" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-86" vertex="1">
           <mxGeometry x="50" width="160" height="30" as="geometry">
             <mxRectangle width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-89" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-86">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-89" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-86" vertex="1">
           <mxGeometry x="210" width="100" height="30" as="geometry">
             <mxRectangle width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-90" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-86">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-90" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-86" vertex="1">
           <mxGeometry x="310" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-91" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-65">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-91" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-65" vertex="1">
           <mxGeometry y="220" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-92" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-91">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-92" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-91" vertex="1">
           <mxGeometry width="50" height="40" as="geometry">
             <mxRectangle width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-93" value="Meditation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-91">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-93" value="Meditation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-91" vertex="1">
           <mxGeometry x="50" width="160" height="40" as="geometry">
             <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-94" value="15min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-91">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-94" value="15min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-91" vertex="1">
           <mxGeometry x="210" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-95" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-91">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-95" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-91" vertex="1">
           <mxGeometry x="310" width="200" height="40" as="geometry">
             <mxRectangle width="200" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-96" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-65">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-96" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-65" vertex="1">
           <mxGeometry y="260" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-97" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-96">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-97" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-96" vertex="1">
           <mxGeometry width="50" height="40" as="geometry">
             <mxRectangle width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-98" value="Sleep" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-96">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-98" value="Sleep" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-96" vertex="1">
           <mxGeometry x="50" width="160" height="40" as="geometry">
             <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-99" value="8hrs" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-96">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-99" value="8hrs" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-96" vertex="1">
           <mxGeometry x="210" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-100" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-96">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-100" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-96" vertex="1">
           <mxGeometry x="310" width="200" height="40" as="geometry">
             <mxRectangle width="200" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-101" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-65">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-101" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="f_WUbL0dvEo4hb0WviOG-65" vertex="1">
           <mxGeometry y="300" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-102" value="7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-101">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-102" value="7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-101" vertex="1">
           <mxGeometry width="50" height="40" as="geometry">
             <mxRectangle width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-103" value="Nutrition" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-101">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-103" value="Nutrition" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-101" vertex="1">
           <mxGeometry x="50" width="160" height="40" as="geometry">
             <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-104" value="5min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-101">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-104" value="5min" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-101" vertex="1">
           <mxGeometry x="210" width="100" height="40" as="geometry">
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-105" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="f_WUbL0dvEo4hb0WviOG-101">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-105" value="Daily" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="f_WUbL0dvEo4hb0WviOG-101" vertex="1">
           <mxGeometry x="310" width="200" height="40" as="geometry">
             <mxRectangle width="200" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-107" value="&lt;div&gt;&lt;div&gt;ToDo&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Content creation&lt;br&gt;(calendar)&lt;/div&gt;&lt;div&gt;2. Listen to podcast&lt;/div&gt;&lt;div&gt;3. Conversation&lt;/div&gt;&lt;div&gt;4. Increase n/w&lt;/div&gt;&lt;div&gt;5. DM to people in community&lt;/div&gt;&lt;div&gt;6. 1 webinar / week&amp;nbsp;&lt;/div&gt;&lt;div&gt;(plan for 8weeks)&lt;/div&gt;&lt;div&gt;7. Invite to MC all old leads&lt;/div&gt;&lt;div&gt;8. Meet My Friend flyer&lt;/div&gt;&lt;div&gt;9; Meet My coach flyer&lt;/div&gt;&lt;div&gt;10. MC engagement&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-107" value="&lt;div&gt;&lt;div&gt;ToDo&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Content creation&lt;br&gt;(calendar)&lt;/div&gt;&lt;div&gt;2. Listen to podcast&lt;/div&gt;&lt;div&gt;3. Conversation&lt;/div&gt;&lt;div&gt;4. Increase n/w&lt;/div&gt;&lt;div&gt;5. DM to people in community&lt;/div&gt;&lt;div&gt;6. 1 webinar / week&amp;nbsp;&lt;/div&gt;&lt;div&gt;(plan for 8weeks)&lt;/div&gt;&lt;div&gt;7. Invite to MC all old leads&lt;/div&gt;&lt;div&gt;8. Meet My Friend flyer&lt;/div&gt;&lt;div&gt;9; Meet My coach flyer&lt;/div&gt;&lt;div&gt;10. MC engagement&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="620" width="180" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-108" value="Content Creation&lt;br&gt;&lt;br&gt;-1. Category&lt;div&gt;0. Content Type&lt;br&gt;&lt;div&gt;1. Topic&lt;div&gt;2. Script&lt;/div&gt;&lt;div&gt;3. Attire&lt;/div&gt;&lt;div&gt;4. Background&lt;/div&gt;&lt;div&gt;5. caption&lt;/div&gt;&lt;div&gt;6. Editing&lt;/div&gt;&lt;div&gt;7. External images&lt;/div&gt;&lt;div&gt;8. Music&lt;/div&gt;&lt;div&gt;9. Possible polls&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-108" value="Content Creation&lt;br&gt;&lt;br&gt;-1. Category&lt;div&gt;0. Content Type&lt;br&gt;&lt;div&gt;1. Topic&lt;div&gt;2. Script&lt;/div&gt;&lt;div&gt;3. Attire&lt;/div&gt;&lt;div&gt;4. Background&lt;/div&gt;&lt;div&gt;5. caption&lt;/div&gt;&lt;div&gt;6. Editing&lt;/div&gt;&lt;div&gt;7. External images&lt;/div&gt;&lt;div&gt;8. Music&lt;/div&gt;&lt;div&gt;9. Possible polls&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="580" width="170" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-109" value="Category&lt;div&gt;&lt;br&gt;&lt;div&gt;1. Food&lt;/div&gt;&lt;div&gt;2. Recipes&lt;/div&gt;&lt;div&gt;3. Balanced Meal&lt;/div&gt;&lt;div&gt;4. Workouts&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5. Book learning&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Habit formation in kids&lt;br&gt;7. Stress&lt;/div&gt;&lt;/div&gt;&lt;div&gt;8. Sleep&lt;/div&gt;&lt;div&gt;9. Nutrition&lt;/div&gt;&lt;div&gt;10.&amp;nbsp; Cooking technique&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sub&lt;/div&gt;&lt;div&gt;&lt;div&gt;1. Knowledge&lt;/div&gt;&lt;div&gt;2. Common Mistakes&lt;/div&gt;&lt;div&gt;3. Tips&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4. Challenge&lt;/div&gt;&lt;div&gt;5. Quiz&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-109" value="Category&lt;div&gt;&lt;br&gt;&lt;div&gt;1. Food&lt;/div&gt;&lt;div&gt;2. Recipes&lt;/div&gt;&lt;div&gt;3. Balanced Meal&lt;/div&gt;&lt;div&gt;4. Workouts&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5. Book learning&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Habit formation in kids&lt;br&gt;7. Stress&lt;/div&gt;&lt;/div&gt;&lt;div&gt;8. Sleep&lt;/div&gt;&lt;div&gt;9. Nutrition&lt;/div&gt;&lt;div&gt;10.&amp;nbsp; Cooking technique&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sub&lt;/div&gt;&lt;div&gt;&lt;div&gt;1. Knowledge&lt;/div&gt;&lt;div&gt;2. Common Mistakes&lt;/div&gt;&lt;div&gt;3. Tips&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4. Challenge&lt;/div&gt;&lt;div&gt;5. Quiz&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="480" width="180" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-110" value="Content Type&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Micro video&lt;/div&gt;&lt;div&gt;2. Static Info&lt;/div&gt;&lt;div&gt;3. Carousel&lt;/div&gt;&lt;div&gt;4. Enacting&lt;/div&gt;&lt;div&gt;5. Infographics&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-110" value="Content Type&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Micro video&lt;/div&gt;&lt;div&gt;2. Static Info&lt;/div&gt;&lt;div&gt;3. Carousel&lt;/div&gt;&lt;div&gt;4. Enacting&lt;/div&gt;&lt;div&gt;5. Infographics&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="600" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-111" value="Topics&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;50 ideas that you can try with AI script in Blink app:&lt;br/&gt;&lt;br/&gt;1. &quot;3 Simple Breakfast Ideas to Kickstart Your Day&quot;&lt;br/&gt;2. &quot;How to Manage Stress Through Mindful Eating&quot;&lt;br/&gt;3. &quot;Quick and Healthy Snack Options for Busy Days&quot;&lt;br/&gt;4. &quot;The Importance of Hydration for Overall Health&quot;&lt;br/&gt;5. &quot;5 Foods to Avoid for Better Blood Sugar Control&quot;&lt;br/&gt;6. &quot;Meal Prep Tips for a Week of Healthy Eating&quot;&lt;br/&gt;7. &quot;Understanding the Link Between Diet and PCOD&quot;&lt;br/&gt;8. &quot;The Role of Exercise in Managing Diabetes&quot;&lt;br/&gt;9. &quot;Healthy Substitutes for High-Cholesterol Foods&quot;&lt;br/&gt;10. &quot;Mindful Eating Techniques for Weight Management&quot;&lt;br/&gt;11. &quot;Simple Yoga Poses for Stress Relief&quot;&lt;br/&gt;12. &quot;Healthy Eating on a Budget: Tips and Tricks&quot;&lt;br/&gt;13. &quot;The Benefits of Adding Fiber to Your Diet&quot;&lt;br/&gt;14. &quot;Cooking Demo: Delicious Diabetes-Friendly Dinner Recipe&quot;&lt;br/&gt;15. &quot;How to Lower Triglycerides Through Diet and Lifestyle Changes&quot;&lt;br/&gt;16. &quot;The Connection Between Sleep and Weight Loss&quot;&lt;br/&gt;17. &quot;Stress-Busting Foods to Include in Your Diet&quot;&lt;br/&gt;18. &quot;Navigating Social Situations While Maintaining a Healthy Diet&quot;&lt;br/&gt;19. &quot;The Role of Omega-3 Fatty Acids in Heart Health&quot;&lt;br/&gt;20. &quot;Healthy Habits to Improve Insulin Sensitivity&quot;&lt;br/&gt;21. &quot;The Impact of Sugar on Hormonal Health&quot;&lt;br/&gt;22. &quot;Meal Planning for Optimal Blood Sugar Control&quot;&lt;br/&gt;23. &quot;Boosting Immunity Through Nutrition and Lifestyle&quot;&lt;br/&gt;24. &quot;Healthy Swaps: Making Your Favorite Recipes Diabetes-Friendly&quot;&lt;br/&gt;25. &quot;The Benefits of Herbal Teas for Digestive Health&quot;&lt;br/&gt;26. &quot;Incorporating Superfoods Into Your Daily Diet&quot;&lt;br/&gt;27. &quot;The Importance of Regular Exercise for Managing Asthma&quot;&lt;br/&gt;28. &quot;Mindful Eating for Weight Loss Success&quot;&lt;br/&gt;29. &quot;Understanding Glycemic Index and Glycemic Load&quot;&lt;br/&gt;30. &quot;Healthy Dessert Options for Those with a Sweet Tooth&quot;&lt;br/&gt;31. &quot;Nutrition Tips for Controlling PCOD Symptoms&quot;&lt;br/&gt;32. &quot;Building a Supportive Wellness Community&quot;&lt;br/&gt;33. &quot;The Gut-Brain Connection: How Diet Affects Mood&quot;&lt;br/&gt;34. &quot;Creating a Balanced Plate: Protein, Carbs, and Fats&quot;&lt;br/&gt;35. &quot;How to Read Food Labels for Better Health Choices&quot;&lt;br/&gt;36. &quot;Healthy Eating While Dining Out: Strategies and Suggestions&quot;&lt;br/&gt;37. &quot;The Benefits of Interval Training for Diabetes Management&quot;&lt;br/&gt;38. &quot;Mindfulness Techniques for Stress Reduction&quot;&lt;br/&gt;39. &quot;The Role of Antioxidants in Fighting Chronic Disease&quot;&lt;br/&gt;40. &quot;Cooking Demo: Flavorful and Heart-Healthy Dinner Idea&quot;&lt;br/&gt;41. &quot;Eating for Energy: Foods That Fuel Your Day&quot;&lt;br/&gt;42. &quot;The Link Between Obesity and Fatty Liver Disease&quot;&lt;br/&gt;43. &quot;The Importance of Portion Control for Weight Management&quot;&lt;br/&gt;44. &quot;Navigating Emotional Eating Triggers&quot;&lt;br/&gt;45. &quot;The Power of Positive Thinking in Wellness Journey&quot;&lt;br/&gt;46. &quot;Healthy Habits for Better Sleep Quality&quot;&lt;br/&gt;47. &quot;Stress-Relieving Breathing Exercises Anyone Can Do&quot;&lt;br/&gt;48. &quot;Cooking with Whole Grains: Delicious and Nutritious Recipes&quot;&lt;br/&gt;49. &quot;The Benefits of Strength Training for Women with PCOD&quot;&lt;br/&gt;50. &quot;Celebrating Non-Scale Victories on Your Wellness Journey&quot;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-111" value="Topics&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;50 ideas that you can try with AI script in Blink app:&lt;br/&gt;&lt;br/&gt;1. &quot;3 Simple Breakfast Ideas to Kickstart Your Day&quot;&lt;br/&gt;2. &quot;How to Manage Stress Through Mindful Eating&quot;&lt;br/&gt;3. &quot;Quick and Healthy Snack Options for Busy Days&quot;&lt;br/&gt;4. &quot;The Importance of Hydration for Overall Health&quot;&lt;br/&gt;5. &quot;5 Foods to Avoid for Better Blood Sugar Control&quot;&lt;br/&gt;6. &quot;Meal Prep Tips for a Week of Healthy Eating&quot;&lt;br/&gt;7. &quot;Understanding the Link Between Diet and PCOD&quot;&lt;br/&gt;8. &quot;The Role of Exercise in Managing Diabetes&quot;&lt;br/&gt;9. &quot;Healthy Substitutes for High-Cholesterol Foods&quot;&lt;br/&gt;10. &quot;Mindful Eating Techniques for Weight Management&quot;&lt;br/&gt;11. &quot;Simple Yoga Poses for Stress Relief&quot;&lt;br/&gt;12. &quot;Healthy Eating on a Budget: Tips and Tricks&quot;&lt;br/&gt;13. &quot;The Benefits of Adding Fiber to Your Diet&quot;&lt;br/&gt;14. &quot;Cooking Demo: Delicious Diabetes-Friendly Dinner Recipe&quot;&lt;br/&gt;15. &quot;How to Lower Triglycerides Through Diet and Lifestyle Changes&quot;&lt;br/&gt;16. &quot;The Connection Between Sleep and Weight Loss&quot;&lt;br/&gt;17. &quot;Stress-Busting Foods to Include in Your Diet&quot;&lt;br/&gt;18. &quot;Navigating Social Situations While Maintaining a Healthy Diet&quot;&lt;br/&gt;19. &quot;The Role of Omega-3 Fatty Acids in Heart Health&quot;&lt;br/&gt;20. &quot;Healthy Habits to Improve Insulin Sensitivity&quot;&lt;br/&gt;21. &quot;The Impact of Sugar on Hormonal Health&quot;&lt;br/&gt;22. &quot;Meal Planning for Optimal Blood Sugar Control&quot;&lt;br/&gt;23. &quot;Boosting Immunity Through Nutrition and Lifestyle&quot;&lt;br/&gt;24. &quot;Healthy Swaps: Making Your Favorite Recipes Diabetes-Friendly&quot;&lt;br/&gt;25. &quot;The Benefits of Herbal Teas for Digestive Health&quot;&lt;br/&gt;26. &quot;Incorporating Superfoods Into Your Daily Diet&quot;&lt;br/&gt;27. &quot;The Importance of Regular Exercise for Managing Asthma&quot;&lt;br/&gt;28. &quot;Mindful Eating for Weight Loss Success&quot;&lt;br/&gt;29. &quot;Understanding Glycemic Index and Glycemic Load&quot;&lt;br/&gt;30. &quot;Healthy Dessert Options for Those with a Sweet Tooth&quot;&lt;br/&gt;31. &quot;Nutrition Tips for Controlling PCOD Symptoms&quot;&lt;br/&gt;32. &quot;Building a Supportive Wellness Community&quot;&lt;br/&gt;33. &quot;The Gut-Brain Connection: How Diet Affects Mood&quot;&lt;br/&gt;34. &quot;Creating a Balanced Plate: Protein, Carbs, and Fats&quot;&lt;br/&gt;35. &quot;How to Read Food Labels for Better Health Choices&quot;&lt;br/&gt;36. &quot;Healthy Eating While Dining Out: Strategies and Suggestions&quot;&lt;br/&gt;37. &quot;The Benefits of Interval Training for Diabetes Management&quot;&lt;br/&gt;38. &quot;Mindfulness Techniques for Stress Reduction&quot;&lt;br/&gt;39. &quot;The Role of Antioxidants in Fighting Chronic Disease&quot;&lt;br/&gt;40. &quot;Cooking Demo: Flavorful and Heart-Healthy Dinner Idea&quot;&lt;br/&gt;41. &quot;Eating for Energy: Foods That Fuel Your Day&quot;&lt;br/&gt;42. &quot;The Link Between Obesity and Fatty Liver Disease&quot;&lt;br/&gt;43. &quot;The Importance of Portion Control for Weight Management&quot;&lt;br/&gt;44. &quot;Navigating Emotional Eating Triggers&quot;&lt;br/&gt;45. &quot;The Power of Positive Thinking in Wellness Journey&quot;&lt;br/&gt;46. &quot;Healthy Habits for Better Sleep Quality&quot;&lt;br/&gt;47. &quot;Stress-Relieving Breathing Exercises Anyone Can Do&quot;&lt;br/&gt;48. &quot;Cooking with Whole Grains: Delicious and Nutritious Recipes&quot;&lt;br/&gt;49. &quot;The Benefits of Strength Training for Women with PCOD&quot;&lt;br/&gt;50. &quot;Celebrating Non-Scale Victories on Your Wellness Journey&quot;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="820" width="660" height="1080" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-113" value="Scrip - Topic 2&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hook&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;How to Manage Stress Through Mindful Eating&lt;br&gt;&lt;br&gt;If you can pay full attention to the experience of eating and being present in the moment, you&#39;ll be surprised to know how that helps to manage your stress&lt;br&gt;&lt;br&gt;There are many idea, but I&#39;ll share you top 3 tips in my next video that you can follow starting today&lt;br&gt;&lt;br&gt;It will be exclusively for our community members, if you are not a part of it do join with link in caption&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Content&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;op 3 tips that can help you manage stress&lt;br&gt;&lt;br&gt;1. Eat without distractions: Avoid eating while watching TV, working, or scrolling your phone. Instead, create a calm &amp;amp; quiet environment free from distractions to fully focus on your meal&lt;br&gt;2. Engag your senses: Take a moment to appreciate the appearance, aroma, and texture of your food before taking your first bite. Notice the colors, shapes, and smells, and savor each mouthful as you eat.&lt;br&gt;3. &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;Chew Slowly and Thoroughly&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;: Take your time to chew each bite of food slowly and thoroughly, paying attention to the taste and texture. This allows your body to properly digest the food and signals to your brain that you&#39;re satisfied, reducing the urge to overeat.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CTA&lt;/div&gt;&lt;div&gt;Give a thumbs up if you are going to try it and do share your experience once done&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-113" value="Scrip - Topic 2&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hook&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;How to Manage Stress Through Mindful Eating&lt;br&gt;&lt;br&gt;If you can pay full attention to the experience of eating and being present in the moment, you&#39;ll be surprised to know how that helps to manage your stress&lt;br&gt;&lt;br&gt;There are many idea, but I&#39;ll share you top 3 tips in my next video that you can follow starting today&lt;br&gt;&lt;br&gt;It will be exclusively for our community members, if you are not a part of it do join with link in caption&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Content&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;op 3 tips that can help you manage stress&lt;br&gt;&lt;br&gt;1. Eat without distractions: Avoid eating while watching TV, working, or scrolling your phone. Instead, create a calm &amp;amp; quiet environment free from distractions to fully focus on your meal&lt;br&gt;2. Engag your senses: Take a moment to appreciate the appearance, aroma, and texture of your food before taking your first bite. Notice the colors, shapes, and smells, and savor each mouthful as you eat.&lt;br&gt;3. &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;Chew Slowly and Thoroughly&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;: Take your time to chew each bite of food slowly and thoroughly, paying attention to the taste and texture. This allows your body to properly digest the food and signals to your brain that you&#39;re satisfied, reducing the urge to overeat.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CTA&lt;/div&gt;&lt;div&gt;Give a thumbs up if you are going to try it and do share your experience once done&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1630" y="100" width="830" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="f_WUbL0dvEo4hb0WviOG-114" value="Scrip - Topic 5&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hook&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;5 foods to avoid for better blood sugar control&lt;br&gt;&lt;/span&gt;&lt;br&gt;We think about blood sugar only when our yearly blood report says its &amp;gt; 5.5&lt;/div&gt;&lt;div&gt;Whole purpose of our community is to encourage you to take preventive health case steps so that we never reach state of disease&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If you can avoid a few food types, it will help to control your blood sugar levels&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Content&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;Agar aapka blood sugar high hain toh aap yeh follow kar hi rahe hoge but baaki sab ko bhi karna hi chaiye&lt;br&gt;&lt;br&gt;1. &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;Sugar-Sweetened Beverages&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;: soda, fruit juice, energy drinks, and sweetened coffee or tea&lt;br&gt;2. &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;Processed and Refined Carbohydrates: Foods made with refined grains and sugars, such as white bread, white rice, pasta, pastries, and sugary cereal&lt;br&gt;3. Sweets and Desserts&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;: Foods high in added sugars, such as candy, cookies, cakes, ice cream, and chocolate bars, can quickly elevate blood sugar levels. &lt;br&gt;4. &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;Fried and High-Fat Foods&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;: Fried foods, fast food, and high-fat meals, such as burgers, fries, fried chicken, and potato chips, &lt;br&gt;5. &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;Sweetened Condiments and Sauces&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;: Condiments and sauces that are high in sugar, such as ketchup, barbecue sauce, sweet chili sauce, and teriyaki sauce&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CTA&lt;/div&gt;&lt;div&gt;Which of this you are consuming but you&#39;ll slowly stop going ahead? 1,2,3,4,5&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f_WUbL0dvEo4hb0WviOG-114" value="Scrip - Topic 5&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hook&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;5 foods to avoid for better blood sugar control&lt;br&gt;&lt;/span&gt;&lt;br&gt;We think about blood sugar only when our yearly blood report says its &amp;gt; 5.5&lt;/div&gt;&lt;div&gt;Whole purpose of our community is to encourage you to take preventive health case steps so that we never reach state of disease&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If you can avoid a few food types, it will help to control your blood sugar levels&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Content&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;Agar aapka blood sugar high hain toh aap yeh follow kar hi rahe hoge but baaki sab ko bhi karna hi chaiye&lt;br&gt;&lt;br&gt;1. &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;Sugar-Sweetened Beverages&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;: soda, fruit juice, energy drinks, and sweetened coffee or tea&lt;br&gt;2. &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;Processed and Refined Carbohydrates: Foods made with refined grains and sugars, such as white bread, white rice, pasta, pastries, and sugary cereal&lt;br&gt;3. Sweets and Desserts&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;: Foods high in added sugars, such as candy, cookies, cakes, ice cream, and chocolate bars, can quickly elevate blood sugar levels. &lt;br&gt;4. &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;Fried and High-Fat Foods&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;: Fried foods, fast food, and high-fat meals, such as burgers, fries, fried chicken, and potato chips, &lt;br&gt;5. &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;Sweetened Condiments and Sauces&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, &amp;quot;apple color emoji&amp;quot;, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(135, 116, 225);&quot;&gt;: Condiments and sauces that are high in sugar, such as ketchup, barbecue sauce, sweet chili sauce, and teriyaki sauce&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CTA&lt;/div&gt;&lt;div&gt;Which of this you are consuming but you&#39;ll slowly stop going ahead? 1,2,3,4,5&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2530" y="100" width="830" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="gd29IvyGMHaG3Nii0sMM-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="350" y="530" width="510" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
